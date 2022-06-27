@@ -12,3 +12,4 @@ By:
 Rencana project adalah akan membuat web app sederhana untuk bisnis reparasi laptop/komputer.
 
 STAY TUNE!!!
+28-06-2022
